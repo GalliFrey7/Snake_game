@@ -1,0 +1,10 @@
+C:\Users\erkha\Desktop\с\SnakeGame\Chatgptgame_snake\Chatgptgame_snake\obj\Debug\game_snake.csproj.AssemblyReference.cache
+C:\Users\erkha\Desktop\с\SnakeGame\Chatgptgame_snake\Chatgptgame_snake\obj\Debug\Chatgptgame_snake.Form1.resources
+C:\Users\erkha\Desktop\с\SnakeGame\Chatgptgame_snake\Chatgptgame_snake\obj\Debug\Chatgptgame_snake.Properties.Resources.resources
+C:\Users\erkha\Desktop\с\SnakeGame\Chatgptgame_snake\Chatgptgame_snake\obj\Debug\game_snake.csproj.GenerateResource.cache
+C:\Users\erkha\Desktop\с\SnakeGame\Chatgptgame_snake\Chatgptgame_snake\obj\Debug\game_snake.csproj.CoreCompileInputs.cache
+C:\Users\erkha\Desktop\с\SnakeGame\Chatgptgame_snake\Chatgptgame_snake\bin\Debug\game_snake.exe.config
+C:\Users\erkha\Desktop\с\SnakeGame\Chatgptgame_snake\Chatgptgame_snake\bin\Debug\game_snake.exe
+C:\Users\erkha\Desktop\с\SnakeGame\Chatgptgame_snake\Chatgptgame_snake\bin\Debug\game_snake.pdb
+C:\Users\erkha\Desktop\с\SnakeGame\Chatgptgame_snake\Chatgptgame_snake\obj\Debug\game_snake.exe
+C:\Users\erkha\Desktop\с\SnakeGame\Chatgptgame_snake\Chatgptgame_snake\obj\Debug\game_snake.pdb
